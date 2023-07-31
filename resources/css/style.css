@@ -1,10 +1,11 @@
 * {
     background-color: black;
+    text-align: center;
 }
 
 h1 {
     color: white;
-    font: Verdana;
+    font-family: Verdana, sans-serif;
     font-weight: normal;
     font-size: 50px;
     text-align: center;
